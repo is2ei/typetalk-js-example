@@ -1,11 +1,11 @@
 {
-  "description": "typetalk-js examples"
+  "description": "typetalk-js examples",
   "repository": {
     "type": "git",
     "url": "git@github.com:is2ei/typetalk-js-example.git"
   },
   "license": "MIT",
   "dependencies": {
-    "typetalk": "0.0.3"
+    "typetalk": "0.0.9"
   }
 }
