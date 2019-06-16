@@ -1,3 +1,8 @@
+/**
+ * Post message example
+ * API doc: https://developer.nulab.com/docs/typetalk/api/1/post-message/
+ */
+
 const config = require('./config');
 const Typetalk = require('typetalk');
 
